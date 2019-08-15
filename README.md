@@ -1,5 +1,12 @@
 # PublicPhotoVending
 
+TA Application, Desired Courses: 
+
+ARTTECH 3135 - Interactive Art and Creative Coding 
+ARTTECH 2101 001 - Art and Technology Practices (Thursday)
+ARTTECH 5010 001 - Graduate Studio: Experimental Media
+
+
 
 Untitled (work in progress) 
 
