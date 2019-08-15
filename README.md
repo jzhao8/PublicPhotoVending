@@ -3,9 +3,10 @@
 
 Untitled (work in progress) 
 
+<iframe src="https://player.vimeo.com/video/354099851" width="640" height="360" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
 
 
-
+Tech Stuff: 
 Batch photo resizing and cms uploading: 
 photo_automate (imageProcessing.js & auto.js)
 
