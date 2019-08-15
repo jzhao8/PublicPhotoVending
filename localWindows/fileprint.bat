@@ -1,0 +1,1 @@
+i_view32 %1 /print

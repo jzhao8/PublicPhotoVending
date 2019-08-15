@@ -1,0 +1,12 @@
+Windows Registry Editor Version 5.00
+
+[HKEY_CLASSES_ROOT\ifranprint]
+@="URL: ifranPrint"
+"URL Protocol"=""
+
+[HKEY_CLASSES_ROOT\ifranprint\shell]
+
+[HKEY_CLASSES_ROOT\ifranprint\shell\open]
+
+[HKEY_CLASSES_ROOT\ifranprint\shell\open\command]
+@="wscript C:\\Users\\Administrator\\Desktop\\print.vbs %1"
